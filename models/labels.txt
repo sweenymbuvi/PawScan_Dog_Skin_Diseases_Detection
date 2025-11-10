@@ -1,0 +1,6 @@
+demodicosis
+Dermatitis
+Fungal_infections
+Healthy
+Hypersensitivity
+ringworm

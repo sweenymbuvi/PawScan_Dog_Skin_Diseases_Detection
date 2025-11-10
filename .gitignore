@@ -11,11 +11,6 @@ __pycache__/
 # Ignore dataset (keep structure local only)
 data/dataset/
 
-# Ignore model weights and checkpoints
-models/
-*.h5
-*.keras
-
 # Ignore logs
 logs/
 *.log
