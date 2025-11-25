@@ -137,7 +137,7 @@ The model uses **MobileNetV2** with transfer learning:
 - **Overall Accuracy**: **90%**
 
 
-### 📱 Screenshots
+## 📱 Screenshots
 
 <p>
   <img src="screenshots/login_test_case.png" alt="Home Screen" width="150" style="margin-right:15px"/>
