@@ -53,19 +53,15 @@ pip install -r requirements.txt
 ```
 
 3. Download the dataset
--Get the dataset from Kaggle
-
--Extract to data/dataset/
-
-### Download dataset
-
 **Get the dataset from Kaggle**
 
-Extract to:
+- [Kaggle Dog Skin Diseases Dataset](https://www.kaggle.com/datasets/youssefmohmmed/dogs-skin-diseases-image-dataset)
 
-```
+**Extract to:**
+
+```bash
 data/dataset/
-```
+
 
 ## 📱 Mobile App
 
@@ -101,8 +97,7 @@ flutter run
 
 ## 📊 Dataset
 
-- **Source**: [Kaggle Dog Skin Diseases Dataset](https://www.kaggle.com/datasets/youssefmohmmed/dogs-skin-diseases-image-dataset)  
-- **Total Images**: 4,335  
+- **Source**: [Kaggle Dog Skin Diseases Dataset](https://www.kaggle.com/datasets/youssefmohmmed/dogs-skin-diseases-image-dataset)   
 - **Classes**:  
   - Healthy  
   - Hypersensitivity  
