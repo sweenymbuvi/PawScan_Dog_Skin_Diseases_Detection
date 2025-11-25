@@ -140,18 +140,12 @@ The model uses **MobileNetV2** with transfer learning:
 
 ### 📱 Screenshots
 
-### Home Screen
-<img src="screenshots/home.png" alt="Home Screen" width="200"/>
+<p>
+  <img src="screenshots/login_test_case.png" alt="Home Screen" width="150"/>
+  <img src="screenshots/upload_and_capture.png" alt="Camera" width="150"/>
+  <img src="screenshots/analysis.png" alt="Results" width="150"/>
+  <img src="screenshots/diagnosis.png" alt="Analysis" width="150"/>
+  <img src="screenshots/detection_history.png" alt="Diagnosis" width="150"/>
+</p>
 
-### Camera / Capture
-<img src="screenshots/camera.png" alt="Camera" width="200"/>
-
-### Results
-<img src="screenshots/results.png" alt="Results" width="200"/>
-
-### Analysis
-<img src="screenshots/analysis.png" alt="Analysis" width="200"/>
-
-### Diagnosis Detail
-<img src="screenshots/diagnosis.png" alt="Diagnosis" width="200"/>
 
