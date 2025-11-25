@@ -61,6 +61,7 @@ pip install -r requirements.txt
 
 ```bash
 data/dataset/
+```
 
 
 ## 📱 Mobile App
@@ -137,19 +138,20 @@ The model uses **MobileNetV2** with transfer learning:
 - **Overall Accuracy**: **90%**
 
 
-## 📱 Screenshots
+### 📱 Screenshots
 
 ### Home Screen
-![Home](screenshots/login_test_case.png)
+<img src="screenshots/home.png" alt="Home Screen" width="200"/>
 
 ### Camera / Capture
-![Camera](screenshots/upload_and_capture.png)
+<img src="screenshots/camera.png" alt="Camera" width="200"/>
+
+### Results
+<img src="screenshots/results.png" alt="Results" width="200"/>
 
 ### Analysis
-![Analysis](screenshots/analysis.png)
+<img src="screenshots/analysis.png" alt="Analysis" width="200"/>
 
-### Diagnosis / Results
-![Results](screenshots/diagnosis.png)
+### Diagnosis Detail
+<img src="screenshots/diagnosis.png" alt="Diagnosis" width="200"/>
 
-### Detection History
-![History](screenshots/detection_history.png)
