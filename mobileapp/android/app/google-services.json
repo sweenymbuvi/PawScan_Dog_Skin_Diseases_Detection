@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "859326386927",
+    "project_id": "pawscan-3cf21",
+    "storage_bucket": "pawscan-3cf21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859326386927:android:3a4ec5c19741437b2b411a",
+        "android_client_info": {
+          "package_name": "com.example.pawscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859326386927-hskgtrnt81juidq2ijerpg00o2dd40e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pawscan",
+            "certificate_hash": "730d2e4ff9553a92c781d3de47d96f1786a712d0"
+          }
+        },
+        {
+          "client_id": "859326386927-m8tqlvlncamadt5a9t94l3mom4njrid2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBwf8zmvwX16qm6EEZe16Qzq4MpIC3LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859326386927-m8tqlvlncamadt5a9t94l3mom4njrid2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859326386927-0t40eumusa1doru5k5cu2qriul30qrrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pawscan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
