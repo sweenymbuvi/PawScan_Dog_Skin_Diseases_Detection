@@ -53,7 +53,6 @@ pip install -r requirements.txt
 ```
 
 3. Download the dataset
-**Get the dataset from Kaggle**
 
 - [Kaggle Dog Skin Diseases Dataset](https://www.kaggle.com/datasets/youssefmohmmed/dogs-skin-diseases-image-dataset)
 
@@ -141,10 +140,10 @@ The model uses **MobileNetV2** with transfer learning:
 ### 📱 Screenshots
 
 <p>
-  <img src="screenshots/login_test_case.png" alt="Home Screen" width="150" style="margin-right:10px"/>
-  <img src="screenshots/upload_and_capture.png" alt="Camera" width="150" style="margin-right:10px"/>
-  <img src="screenshots/analysis.png" alt="Results" width="150" style="margin-right:10px"/>
-  <img src="screenshots/diagnosis.png" alt="Analysis" width="150" style="margin-right:10px"/>
+  <img src="screenshots/login_test_case.png" alt="Home Screen" width="150" style="margin-right:15px"/>
+  <img src="screenshots/upload_and_capture.png" alt="Camera" width="150" style="margin-right:15px"/>
+  <img src="screenshots/analysis.png" alt="Results" width="150" style="margin-right:15px"/>
+  <img src="screenshots/diagnosis.png" alt="Analysis" width="150" style="margin-right:15px"/>
   <img src="screenshots/detection_history.png" alt="Diagnosis" width="150"/>
 </p>
 
